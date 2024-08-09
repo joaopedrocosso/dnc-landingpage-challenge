@@ -30,3 +30,26 @@
     gap: 200px;
     padding: 60px;
 }
+
+#about{
+    display: grid;
+    grid-auto-flow: column;
+    grid-column: auto;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+#about-title{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#about-description{
+    font-size: 18px;
+}
+
+#banner{
+    width: 400px;
+    height: 605px;
+}
