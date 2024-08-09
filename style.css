@@ -20,3 +20,13 @@
     font-size: 20px;
     font-weight: 300;
 }
+
+#informations{
+    background-color: #f4f4f4;
+    display: grid;
+    grid-auto-flow: column;
+    grid-column: auto;
+    justify-content: center;
+    gap: 200px;
+    padding: 60px;
+}
