@@ -53,3 +53,36 @@
     width: 400px;
     height: 605px;
 }
+
+#form{
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 60px 0px;
+}
+
+#form-title{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+input{
+    padding-left: 18px;
+    height: 38px;
+    width: 400px;
+    border: none;
+    border-radius: 8px;
+    color: #0000004D;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+button{
+    background-color: #C07212;
+    border: none;
+    color: #FFFFFF;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
