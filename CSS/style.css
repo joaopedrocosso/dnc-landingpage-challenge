@@ -5,10 +5,11 @@
     font-family: 'Inter', sans-serif;
 }
 
+/* Hero */
 #hero{
     background-color: #303030;
     color: #FFFFFF;
-    padding: 120px 0px 95px 50px;
+    padding: 120px 0px 95px 70px;
 }
 
 #title{
@@ -21,6 +22,7 @@
     font-weight: 300;
 }
 
+/* Menu Informacional */
 #informations{
     background-color: #f4f4f4;
     display: grid;
@@ -31,6 +33,11 @@
     padding: 60px;
 }
 
+h2{
+    font-size: 35px;
+}
+
+/* Sobre */
 #about{
     display: grid;
     grid-auto-flow: column;
@@ -54,6 +61,7 @@
     height: 605px;
 }
 
+/* Form */
 #form{
     background-color: #303030;
     color: #FFFFFF;
@@ -77,11 +85,12 @@ input{
     font-weight: 600;
 }
 
-button{
+#botao{
     background-color: #C07212;
     border: none;
     color: #FFFFFF;
     padding: 12px 30px;
+    width: 200px;
     border-radius: 8px;
     font-size: 18px;
     font-weight: 600;
